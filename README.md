@@ -1,1 +1,4 @@
 # Infosys_Automation_test_execution_framework
+The Automated Regression Test Suite Framework with Parallel Execution and Spring Boot REST APIs is a Java-based automation framework designed to efficiently manage and execute regression tests for web and API applications. It integrates Selenium WebDriver for UI testing and REST-Assured for API validation, while using multithreading to run tests in parallel for faster execution.
+
+The framework includes Spring Boot RESTful APIs to manage test cases, trigger executions, and retrieve results, enabling centralized and automated test control. Test outcomes are stored using JDBC, with support for HTML, CSV, and JUnit reports, along with failure screenshots and logs. This lightweight, scalable solution helps detect regressions early, improves test reliability.
